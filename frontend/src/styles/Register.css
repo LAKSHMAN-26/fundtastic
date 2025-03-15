@@ -1,0 +1,13 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.Registration{
+    display: flex;
+    align-items: center;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWGNnlvR10sY3jn6-xUAoRIYuAz0KodHzLow&s');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:100vh;
+    position:relative;
+}

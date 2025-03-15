@@ -1,0 +1,12 @@
+.authForm{
+    background: lightblue;
+}
+.Login{
+    display: flex;
+    align-items: center;
+    margin-top: 0;
+    height:100vh;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdhp_EXwTOp8vJmebqWERIW1KZmDbQiUle2qRFl4Ru3hyjLOVfymBkGtUJXodg0aleUOU&usqp=CAU');
+    background-size: cover;
+
+}
